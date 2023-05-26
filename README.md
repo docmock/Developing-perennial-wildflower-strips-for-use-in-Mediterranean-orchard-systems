@@ -8,4 +8,4 @@
 
 *alicemockford@ecology.uni-kiel.de
 
-The data that support the findings of this study are openly available in Dryad at https://doi.org/10.5061/dryad.cjsxksnbh.
+The data are openly available in Dryad at https://doi.org/10.5061/dryad.cjsxksnbh.
